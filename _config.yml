@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5878136
+  brandStrength: 0.3038162
+  lightness: 0.6021807
+  rhythmicContrast: 0.5340502
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.4551971
+name: 4mDigital
