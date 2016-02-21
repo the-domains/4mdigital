@@ -1,29 +1,41 @@
-name: 4mDigital
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4551971
 title: 4mDigital
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5878136
+  brandStrength: 0.3038162
+  lightness: 0.6021807
+  brandColors:
+    - '#000000'
+    - '#F3EEF5'
+    - '#756C99'
+    - '#535253'
+    - '#C8C5CE'
+  rhythmicContrast: 0.5340502
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: 4mDigital
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3038162
-  lightness: 0.6021807
-  saturation: 0.5878136
-  rhythmicContrast: 0.5340502
-purpose: []
+typography_spectrum: 0.4551971
+layout_spectrum: 1
