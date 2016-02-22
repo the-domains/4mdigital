@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[4mDigital]]></title>
         <description><![CDATA[4mDigital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/4mdigital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:07:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 00:07:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/4mdigital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strength]]></title>
+            <description><![CDATA[<article><h1>Strength</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6a750b7-c00e-429a-a4fa-9afa5ee47d33.png"></article>]]></description>
+            <link>https://thegrid.ai/4mdigital/strength/index.html</link>
+            <guid isPermaLink="false">45407416-4fdf-484c-8e95-ebf1c1590220</guid>
+            <pubDate>Sun, 21 Feb 2016 23:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don't Give Up!]]></title>
-            <description><![CDATA[<article><h1>Don't Give Up!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73a14de3-e58e-4085-8eef-1d2eb2687d60.png"></article>]]></description>
-            <link>undefineddont-give-up/index.html</link>
+            <description><![CDATA[<article><h1>Don't Give Up!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c97f73e98ce44fee36a224e9907f36c10ea0a282.png"></article>]]></description>
+            <link>https://thegrid.ai/4mdigital/dont-give-up/index.html</link>
             <guid isPermaLink="false">c57e9dc1-27c8-4a55-bd50-3112842fc32d</guid>
             <pubDate>Sun, 21 Feb 2016 23:57:17 GMT</pubDate>
         </item>
